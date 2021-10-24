@@ -1,0 +1,48 @@
+*{
+	padding: 0px;
+	margin: auto;
+	box-sizing: border-box;
+	display: block;
+}
+p {
+	color:dodgerblue;
+	font-size:32px;
+	font-family: 'swap', cursive;
+}
+h1 {
+	color: black;
+	font-size:32px;
+	margin-top: 0px;
+	margin: 0px;
+	text-align: center;
+}
+div {
+	width:80%;
+	margin: auto;
+	background-color:#8513d8;
+	padding:15%;
+	box-shadow: 0 0 10px 1px rgba(0, 0, 0, 1.0);
+}
+a{
+	font-size:22px;
+	text-decoration:  none;
+}
+img {
+	max-width:100%;
+	height: auto;
+	width: 100%;
+	display: block;
+	margin: auto;
+}
+body {
+	background-color: green;
+	background-image: url("joska.jpg");
+}
+img{
+	margin: auto;
+
+}
+iframe{
+	margin: 50px;
+	margin-left: 140px;
+}
